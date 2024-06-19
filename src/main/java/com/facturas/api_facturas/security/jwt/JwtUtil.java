@@ -1,4 +1,4 @@
-package com.facturas.api_facturas.jwt;
+package com.facturas.api_facturas.security.jwt;
 
 import java.util.Date;
 import java.util.HashMap;
